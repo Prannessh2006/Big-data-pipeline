@@ -1,0 +1,8 @@
+python-dotenv
+pyspark==3.5.1
+json
+time
+asyncio
+aiohttp
+streamlit
+aiokafka

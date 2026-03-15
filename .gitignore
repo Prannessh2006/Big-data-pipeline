@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+.ivy2/
+spark-warehouse/
+metastore_db/
